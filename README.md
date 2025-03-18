@@ -28,7 +28,7 @@ Un ghid detaliat pentru pregătirea workshop-ului este disponibil [aici](https:/
 
 ## 👥 Grupuri de lucru
 
-Distribuirea în grupuri și detalii despre sesiunile de studiu se pot accesa [aici](https://ovidiuchis.github.io/cstcj25/grupuri).
+Distribuirea în grupuri și detalii despre sesiunile de studiu se pot accesa [aici](https://ovidiuchis.github.io/cstcj25/grupe).
 
 ## 📝 Notebook-ul participantului
 
