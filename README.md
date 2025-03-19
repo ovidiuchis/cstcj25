@@ -32,7 +32,7 @@ Distribuirea în grupuri și detalii despre sesiunile de studiu se pot accesa [a
 
 ## 📝 Notebook-ul participantului
 
-Notebook-ul oficial al participantului poate fi descărcat [aici](https://ovidiuchis.github.io/cstcj25/notebook).
+Notebook-ul oficial al participantului poate fi descărcat [aici](https://ovidiuchis.github.io/cstcj25/assets/notebook.docx).
 
 ---
 
