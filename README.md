@@ -4,7 +4,7 @@ Acest repository găzduiește informații legate de **Workshop-ul Charles Simeon
 
 ## 🔗 Acces rapid
 
-Accesați website-ul: [CSTCJ 2025](https://ovidiuchis.github.io/cstcj25/)
+Accesați website-ul: [CSTCJ 2025](https://unu-unu-cj.github.io/cstcj25/)
 
 ## 📌 Conținut
 
@@ -20,19 +20,19 @@ Workshop-ul **CSTCJ 2025** este dedicat aprofundării principiilor expunerii bib
 
 ## 📅 Program
 
-Consultați programul detaliat al evenimentului [aici](https://ovidiuchis.github.io/cstcj25/orar).
+Consultați programul detaliat al evenimentului [aici](https://unu-unu-cj.github.io/cstcj25/orar).
 
 ## 📂 Ghid de pregătire
 
-Un ghid detaliat pentru pregătirea workshop-ului este disponibil [aici](https://ovidiuchis.github.io/cstcj25/ghid).
+Un ghid detaliat pentru pregătirea workshop-ului este disponibil [aici](https://unu-unu-cj.github.io/cstcj25/ghid).
 
 ## 👥 Grupuri de lucru
 
-Distribuirea în grupuri și detalii despre sesiunile de studiu se pot accesa [aici](https://ovidiuchis.github.io/cstcj25/grupe).
+Distribuirea în grupuri și detalii despre sesiunile de studiu se pot accesa [aici](https://unu-unu-cj.github.io/cstcj25/grupe).
 
 ## 📝 Notebook-ul participantului
 
-Notebook-ul oficial al participantului poate fi descărcat [aici](https://ovidiuchis.github.io/cstcj25/assets/notebook.docx).
+Notebook-ul oficial al participantului poate fi descărcat [aici](https://unu-unu-cj.github.io/cstcj25/assets/notebook.docx).
 
 ---
 
